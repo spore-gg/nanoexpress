@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "Nano-framework for Node.js",
   "type": "module",
-  "main": "cjs/nanoexpress.js",
+  "main": "src/nanoexpress.js",
   "module": "src/nanoexpress.js",
   "exports": {
-    ".": "./cjs/nanoexpress.js",
+    ".": "./src/nanoexpress.js",
     "./module": "./src/nanoexpress.js",
     "./cjs/*": "./cjs/*",
     "./src/*": "./src/*"
